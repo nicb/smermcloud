@@ -1,6 +1,6 @@
 # SmermCloud
 
-A SoundCloud lookalike library to manage SMERM music data.
+A SoundCloud lookalike client library to manage SMERM music data into the SMERMCloud server.
 
 ## Installation
 
