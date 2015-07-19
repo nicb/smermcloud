@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ['Nicola Bernardini', 'Giuseppe Silvi']
   spec.email         = ['n.bernardini@conservatoriosantacecilia.it', 'grammaton@me.com']
 
-  spec.summary       = %q{A SoundCloud lookalike library to manage SMERM music data}
+  spec.summary       = %q{A SoundCloud lookalike client library to manage SMERM music data into the SMERMCloud server}
   # spec.description   = %q{TODO: Write a longer description or delete this line.}
   spec.homepage      = 'https://github.com/nicb/smermcloud'
 
